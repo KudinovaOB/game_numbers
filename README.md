@@ -1,2 +1,2 @@
 # game_numbers
-Test game for learning
+This is my data science project. 
